@@ -24,9 +24,17 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+
+# Theme settings
+remote_theme: pmarsceill/just-the-docs
+search_enabled: true
+# Aux links for the upper right navigation
+aux_links:
+    "Just the Docs on GitHub":
+      - "//github.com/pmarsceill/just-the-docs"
+        
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
