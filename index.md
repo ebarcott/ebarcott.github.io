@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hello this is the main page.
+Hi, you look nice today.
